@@ -1,0 +1,4 @@
+﻿_Layout oluşturduk _ koyduk çünkü direkt çalıştırır. Shared altında oluşturduk.
+Bootstrapt 5 jquery e ihtiyaç duymaz . Sadece javascript ile yazılmıştır.Eğer jquery kullanmayacaksak kütüphaneyi yüklemeye gerek yok.
+navbar ekledik ve containerq fluid ile bunu sardık.
+sonra homecontrollere about oluştudrudk ve view ekledik oluşturduğumuz layout  u seçtik.
